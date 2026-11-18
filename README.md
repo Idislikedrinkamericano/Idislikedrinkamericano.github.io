@@ -11,7 +11,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>English</b></summary>
 
 My personal website, where I keep notes on growing up, the places I've been, and a few thoughts.

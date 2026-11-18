@@ -1,4 +1,4 @@
-# 陆彦燃的个人网站 | Lu Yanran's Personal Website
+# 陆彦燃的个人网站 | Aaron's Personal Website
 
 My personal website, where I keep notes on growing up, the places I've been, and a few thoughts.
 
